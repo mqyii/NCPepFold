@@ -1,0 +1,12 @@
+name,rmsd(prot align),rmsd(prot/pep align),rmsd(pep align),modification rmsd(prot align),modification rmsd(prot/pep align),modification rmsd(pep align),error info
+2N8E,0.242,0.242,0.242,1.387,1.387,1.387,
+2M2S,2.789,2.789,2.789,3.025,3.025,3.025,
+2KNN,2.078,2.078,2.078,1.891,1.891,1.891,
+2MSQ,0.627,0.627,0.627,1.105,1.105,1.105,
+4M6E,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/cyc/monomer/head_to_tail/4M6E/4M6E.fixed_finetune.pdb is not a valid filename or a valid PDB identifier.')}
+2J15,1.629,1.629,1.629,0.858,0.858,0.858,
+2M2H,2.536,2.536,2.536,2.735,2.735,2.735,
+2M1P,0.846,0.846,0.846,0.790,0.790,0.790,
+2M2X,2.600,2.600,2.600,3.691,3.691,3.691,
+2M2G,1.860,1.860,1.860,1.797,1.797,1.797,
+1T9E,0.267,0.267,0.267,0.894,0.894,0.894,

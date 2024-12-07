@@ -1,0 +1,23 @@
+name,rmsd(prot align),rmsd(prot/pep align),rmsd(pep align),modification rmsd(prot align),modification rmsd(prot/pep align),modification rmsd(pep align),error info
+6n68A,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/monomer/6n68A/6n68A.fixed_finetune.pdb is not a valid filename or a valid PDB identifier.')}
+2norA,0.241,0.241,0.241,1.049,1.049,1.049,
+1v50A,0.538,0.538,0.538,1.489,1.489,1.489,
+2l87A,1.912,1.912,1.912,6.337,6.337,6.337,
+2mzaA,3.687,3.687,3.687,5.227,5.227,5.227,
+2n0nA,,,,,,,{ValueError('reference and target arrays must have the same number of atoms')}
+2LDA,1.781,1.781,1.781,2.533,2.533,2.533,
+6cmhA,5.775,5.775,5.775,4.804,4.804,4.804,
+3zs2D,,,,,,,{ValueError('reference and target arrays must have the same number of atoms')}
+3cmhA,0.431,0.431,0.431,0.958,0.958,0.958,
+1vm5A,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/monomer/1vm5A/1vm5A.fixed_finetune.pdb is not a valid filename or a valid PDB identifier.')}
+2LDD,0.823,0.823,0.823,2.589,2.589,2.589,
+1geaA,,,,,,,{ValueError('reference and target arrays must have the same number of atoms')}
+2fbsN,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/monomer/2fbsN/2fbsN.fixed_finetune.pdb is not a valid filename or a valid PDB identifier.')}
+5kgyA,1.553,1.553,1.553,4.790,4.790,4.790,
+2LDC,1.089,1.089,1.089,4.047,4.047,4.047,
+6QXB,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/monomer/6QXB/6QXB.fixed_finetune.pdb is not a valid filename or a valid PDB identifier.')}
+1mxqA,0.169,0.169,0.169,1.451,1.451,1.451,
+2mylA,1.836,1.836,1.836,2.919,2.919,2.919,
+7jgyA,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/monomer/7jgyA/7jgyA.fixed_finetune.pdb is not a valid filename or a valid PDB identifier.')}
+2mz2A,2.489,2.489,2.489,5.940,5.940,5.940,
+2mymA,3.402,3.402,3.402,2.473,2.473,2.473,

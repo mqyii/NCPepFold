@@ -1,0 +1,11 @@
+,pdb_id,success,path,error,mean_plddt,pep_plddt,mean_pae,pae_prot,pae_inter
+0,2fx8P,-1,/home/light/mqy/ncaa/data/ncaa/linear/complex/2fx8P,,,,,,
+1,2k7lB,1,/home/light/mqy/ncaa/data/ncaa/linear/complex/2k7lB,,0.7614725828170776,0.6334239840507507,6.210444450378418,4.21236515045166,14.185169219970703
+2,2rlnS,-1,/home/light/mqy/ncaa/data/ncaa/linear/complex/2rlnS,,,,,,
+3,1rbdS,-1,/home/light/mqy/ncaa/data/ncaa/linear/complex/1rbdS,,,,,,
+4,1fevA,1,/home/light/mqy/ncaa/data/ncaa/linear/complex/1fevA,,0.8846074342727661,0.8486839532852173,3.080800771713257,2.8392419815063477,5.465020179748535
+5,3kmzC,-1,/home/light/mqy/ncaa/data/ncaa/linear/complex/3kmzC,,,,,,
+6,1z3pS,1,/home/light/mqy/ncaa/data/ncaa/linear/complex/1z3pS,,0.8806447982788086,0.8194200992584229,3.3504559993743896,3.200104236602783,4.698904514312744
+7,1z3lS,1,/home/light/mqy/ncaa/data/ncaa/linear/complex/1z3lS,,0.7741595506668091,0.4293370246887207,8.869110107421875,6.539655685424805,18.8443603515625
+8,4lkaB,-1,/home/light/mqy/ncaa/data/ncaa/linear/complex/4lkaB,,,,,,
+9,1z3mS,1,/home/light/mqy/ncaa/data/ncaa/linear/complex/1z3mS,,0.7601985335350037,0.3848033547401428,8.778836250305176,6.385919094085693,18.311969757080078

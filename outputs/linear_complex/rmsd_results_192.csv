@@ -1,0 +1,23 @@
+name,rmsd(prot align),rmsd(prot/pep align),rmsd(pep align),modification rmsd(prot align),modification rmsd(prot/pep align),modification rmsd(pep align),error info
+1d5eA,,,,,,,{ValueError('reference and target arrays must have the same number of atoms')}
+6gb1B,1.172,0.729,0.266,1.313,1.109,1.135,
+3oqza,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/complex/3oqza/3oqza.fixed_finetune_192.pdb is not a valid filename or a valid PDB identifier.')}
+3or0a,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/complex/3or0a/3or0a.fixed_finetune_192.pdb is not a valid filename or a valid PDB identifier.')}
+2fx8P,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/complex/2fx8P/2fx8P.fixed_finetune_192.pdb is not a valid filename or a valid PDB identifier.')}
+2k7lB,22.458,23.806,2.380,16.488,32.452,3.023,
+2rlnS,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/complex/2rlnS/2rlnS.fixed_finetune_192.pdb is not a valid filename or a valid PDB identifier.')}
+5ottB,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/complex/5ottB/5ottB.fixed_finetune_192.pdb is not a valid filename or a valid PDB identifier.')}
+1rbdS,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/complex/1rbdS/1rbdS.fixed_finetune_192.pdb is not a valid filename or a valid PDB identifier.')}
+1d5dA,,,,,,,{ValueError('reference and target arrays must have the same number of atoms')}
+4o37A,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/complex/4o37A/4o37A.fixed_finetune_192.pdb is not a valid filename or a valid PDB identifier.')}
+1fevA,0.397,12.978,0.250,0.772,17.559,0.723,
+1d5hA,,,,,,,{ValueError('reference and target arrays must have the same number of atoms')}
+3kmzC,16.828,16.327,1.250,9.849,8.710,1.664,
+4okfA,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/complex/4okfA/4okfA.fixed_finetune_192.pdb is not a valid filename or a valid PDB identifier.')}
+5otuB,29.679,25.601,4.756,49.737,43.842,4.199,
+1z3pS,0.639,15.442,0.225,1.601,11.323,1.449,
+1z3lS,0.429,15.245,0.225,0.793,10.650,0.761,
+4yjwb,1.569,14.775,0.986,0.909,9.234,1.354,
+4lkaB,3.320,3.001,0.508,3.826,3.451,2.540,
+3oqyb,,,,,,,{OSError('/home/light/mqy/ncaa/data/ncaa/linear/complex/3oqyb/3oqyb.fixed_finetune_192.pdb is not a valid filename or a valid PDB identifier.')}
+1z3mS,0.447,15.213,0.158,0.704,10.808,0.612,

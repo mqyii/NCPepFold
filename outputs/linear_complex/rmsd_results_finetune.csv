@@ -1,0 +1,23 @@
+name,rmsd(prot align),rmsd(prot/pep align),rmsd(pep align),modification rmsd(prot align),modification rmsd(prot/pep align),modification rmsd(pep align),error info
+1d5eA,,,,,,,{ValueError('reference and target arrays must have the same number of atoms')}
+6gb1B,1.321,1.023,0.729,1.178,1.035,0.753,
+3oqza,0.542,14.062,0.329,1.656,9.846,1.432,
+3or0a,0.643,15.198,0.387,2.623,12.581,2.308,
+2fx8P,34.228,33.351,2.783,37.290,36.397,3.407,
+2k7lB,1.959,23.437,1.194,2.251,37.337,1.848,
+2rlnS,0.687,15.239,0.202,1.464,11.326,1.413,
+5ottB,13.689,11.836,7.487,31.972,27.901,7.575,
+1rbdS,0.606,15.206,0.362,0.454,10.344,0.391,
+1d5dA,,,,,,,{ValueError('reference and target arrays must have the same number of atoms')}
+4o37A,12.238,8.415,3.965,7.797,10.074,5.877,
+1fevA,0.546,12.811,0.184,0.651,17.359,0.478,
+1d5hA,,,,,,,{ValueError('reference and target arrays must have the same number of atoms')}
+3kmzC,2.719,2.498,1.257,2.710,2.508,1.789,
+4okfA,0.365,12.971,0.284,1.373,11.081,1.400,
+5otuB,17.447,14.843,6.879,33.617,29.786,8.259,
+1z3pS,0.574,15.380,0.236,1.548,11.114,1.448,
+1z3lS,0.296,15.411,0.187,0.458,10.631,0.422,
+4yjwb,1.594,14.900,0.958,0.807,9.642,1.324,
+4lkaB,0.703,0.643,0.437,1.410,1.361,1.217,
+3oqyb,1.625,15.301,0.325,1.698,10.296,1.427,
+1z3mS,0.405,15.124,0.264,0.426,10.615,0.280,
