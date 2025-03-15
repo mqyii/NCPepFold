@@ -48,6 +48,10 @@ bash install_dependencies.sh
 
 6. Download the model weights.
 
+```
+wget https://huggingface.co/zhaisilong/NCPepFold/resolve/main/ncpepfold_192.pt
+```
+
 7. Download sequence databases for MSA and template generation.
 
 ```
